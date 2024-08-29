@@ -45,7 +45,7 @@ This project is an image processing system designed to handle CSV files containi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-processing-system.git
+   git clone https://github.com/Adithyasharma1162/image-processing-from-csv.git
    cd image-processing-system
 
 ## Configuration
